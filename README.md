@@ -1,4 +1,4 @@
 gpu
 ===
 
-some codes for GPU
+some tools for GPU & SGE
