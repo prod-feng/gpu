@@ -17,6 +17,8 @@ Users can run gpustat.pl
 >global                  -               -     -       -       -       -       -    -     -      -      -   
 >node100                 linux-x64      12  8.72   23.6G    2.2G   11.4G   17.9M    1     2     1.98   131MB 
 >node101                 linux-x64      12  8.66   23.6G    1.5G   11.4G   14.8M    2     2     1.98   130MB 
+ 
+As in the file "output".
 
 Developed by Perl and Bash.
 
