@@ -11,7 +11,7 @@ gpustat.pl can be set as regular command and put it $PATH.
 
 Users can run gpustat.pl
 
->>./gpustat.pl
+>./gpustat.pl
 >HOSTNAME                ARCH         NCPU  LOAD  MEMTOT  MEMUSE  SWAPTO  SWAPUS  NGPUS  SLOTS  GLOAD  GMEM
 >-----------------------------------------------------------------------------------------------------------
 >global                  -               -     -       -       -       -       -    -     -      -      -   
